@@ -1,0 +1,9 @@
+# Configs non anonymisées / secrets
+.env
+*-raw.conf
+*.full.conf
+*secret*
+
+# Divers
+.DS_Store
+*.swp
